@@ -1,5 +1,5 @@
 === BP Multi Network ===
-Contributors: wpmuguru, JohnJamesJacoby
+Contributors: wpmuguru, johnjamesjacoby
 Tags: buddypress, multiple, multisite, network 
 Requires at least: 3.2
 Tested up to: 3.2.1
@@ -9,6 +9,8 @@ Segregate your BP networks in a multi-network WP install.
 
 == Description ==
 
+Requires BuddyPress 1.5 or greater.
+
 This plugin segregates BuddyPress social networks in a multi network WordPress install so that each WP network has a different social network. The user base is still shared across the WP install.
 
 Multiple WP networks can be created with either:
@@ -17,8 +19,6 @@ Multiple WP networks can be created with either:
 * (Networks+)http://wpebooks.com/networks/
 
 Please see the installation instructions for proper installation.
-
-Requires BuddyPress 1.5 or greater.
 
 == Installation ==
 
