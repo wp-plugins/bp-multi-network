@@ -15,8 +15,8 @@ This plugin segregates BuddyPress social networks in a multi network WordPress i
 
 Multiple WP networks can be created with either:
 
-* (WP Multi Network)http://wordpress.org/extend/plugins/wp-multi-network/
-* (Networks+)http://wpebooks.com/networks/
+* [WP Multi Network](http://wordpress.org/extend/plugins/wp-multi-network/)
+* [Networks+](http://wpebooks.com/networks/)
 
 Please see the installation instructions for proper installation.
 
