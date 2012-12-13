@@ -1,9 +1,9 @@
 === BP Multi Network ===
-Contributors: wpmuguru, johnjamesjacoby
+Contributors: wpmuguru, johnjamesjacoby, boonebgorges
 Tags: buddypress, multiple, multisite, network 
 Requires at least: 3.2
-Tested up to: 3.2.1
-Stable tag: trunk
+Tested up to: 3.5
+Stable tag: 0.1
 
 Segregate your BP networks in a multi-network WP install.
 

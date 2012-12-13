@@ -3,7 +3,7 @@
 Plugin Name: BP Multi Network
 Plugin URI: http://wpmututorials.com/news/new-features/multiple-buddypress-social-networks/
 Description: Segregate your BP networks in a multi-network WP install (must be installed in the mu-plugins folder)
-Version: 0.1
+Version: 0.1.1
 Author: Ron Rennick
 Author URI: http://ronandandrea.com/
 */
@@ -39,9 +39,10 @@ add_filter( 'bp_core_get_table_prefix', 'ra_bp_multinetwork_filter' );
 function ra_bp_multinetwork_meta_key_filter( $key ) {
 	global $wpdb;
 	static $user_meta_keys = array(
+		'last_activity' => false, 
 		'bp_new_mention_count' => false, 
 		'bp_favorite_activities' => false, 
-		'bp_latest_update' => false, 
+		'bp_latest_update' => false,
 		'total_friend_count' => false, 
 		'total_group_count' => false, 
 		'notification_groups_group_updated' => false, 
