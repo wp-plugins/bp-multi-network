@@ -2,7 +2,7 @@
 Contributors: wpmuguru, johnjamesjacoby, boonebgorges
 Tags: buddypress, multiple, multisite, network 
 Requires at least: 3.2
-Tested up to: 3.8
+Tested up to: 4.3
 Stable tag: 0.1.1
 
 Segregate your BP networks in a multi-network WP install.
